@@ -57,7 +57,6 @@ jpeg-quantsmooth/
 ├── jpegqs.exe
 ├── tools/
 │ ├── jpegqs_dragdrop.bat
-│ └── jpeg2png_dragdrop.bat
 ├── README.md
 └── ... original source files
 
