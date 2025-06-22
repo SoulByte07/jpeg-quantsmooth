@@ -52,13 +52,14 @@ C:\Users\You\Pictures\wallpaper_upscale_clean.png
 ---
 
 ### 📁 File Tree Example
-
+```text
 jpeg-quantsmooth/
 ├── jpegqs.exe
 ├── tools/
-│ ├── jpegqs_dragdrop.bat
+│   └── jpegqs_dragdrop.bat
 ├── README.md
 └── ... original source files
+
 
 ---
 
