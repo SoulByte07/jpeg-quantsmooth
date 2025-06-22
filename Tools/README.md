@@ -61,7 +61,7 @@ jpeg-quantsmooth/
 ├── README.md
 └── ... original source files
 
-
+```
 ---
 
 ### 🧠 Notes
