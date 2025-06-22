@@ -51,7 +51,8 @@ C:\Users\You\Pictures\wallpaper_upscale_clean.png
 
 ---
 
-### 📁 File Tree Example
+#### 📁 Folder Structure (after unzip)
+
 ```text
 jpeg-quantsmooth/
 ├── jpegqs.exe
